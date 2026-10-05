@@ -1,0 +1,22 @@
+# Ignorar todo
+*
+
+# Permitir explorar carpetas
+!*/
+
+# Carpetas a rastrear
+!external/**
+!resources/**
+
+# Archivos a rastrear de Git y GitHub
+!.gitignore
+!README.md
+
+# Archivos a rastrear de Qt
+!CMakeLists.txt
+!main.cpp
+!mainwindow.cpp
+!mainwindow.h
+!mainwindow.ui
+!resoruces.qrc
+
